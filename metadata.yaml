@@ -1,0 +1,36 @@
+_repo: Ang-Singsing-nang-Dalagang-Marmol_15129
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Raimundo, Carlos B.
+    gutenberg_agent_id: '6261'
+    url: http://www.gutenberg.org/2009/agents/6261
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Reyes y Florentino, Isabelo de los
+    aliases:
+    - Reyes, Isabelo de los
+    - De Los Reyes, Isabelo Florentino
+    - Don Belong
+    birthdate: 1864
+    deathdate: 1938
+    gutenberg_agent_id: '5871'
+    url: http://www.gutenberg.org/2009/agents/5871
+    wikipedia: http://en.wikipedia.org/wiki/Isabelo_de_los_Reyes
+description: ''
+gutenberg_issued: '2005-02-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15129'
+language: tl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Historical fiction'
+- !lcc 'PL'
+title: Ang Singsing nang Dalagang Marmol
+url: http://www.gutenberg.org/ebooks/15129
