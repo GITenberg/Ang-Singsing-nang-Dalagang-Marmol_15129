@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5871
     wikipedia: http://en.wikipedia.org/wiki/Isabelo_de_los_Reyes
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15129#Ang-Singsing-nang-Dalagang-Marmol
 gutenberg_issued: '2005-02-21'
 gutenberg_type: Text
 identifiers:
